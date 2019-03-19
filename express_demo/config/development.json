@@ -1,0 +1,6 @@
+{
+	"name":"My Express App - Development settings",
+	"mail":{
+		"host":"development-mail-server"
+	}
+}
